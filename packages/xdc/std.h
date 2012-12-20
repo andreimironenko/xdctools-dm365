@@ -175,7 +175,7 @@ static inline xdc_Float xdc_argToFloat(xdc_IArg a)
 
 /* restrict keyword */
 #ifndef xdc__RESTRICT__
-#define restrict
+//#define restrict
 #endif
 
 /* Unprefixed Aliases */
